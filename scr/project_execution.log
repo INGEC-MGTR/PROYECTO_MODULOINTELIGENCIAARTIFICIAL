@@ -1,0 +1,12 @@
+2025-08-26 22:36:57,129 - INFO - Estructura de directorios creada exitosamente
+2025-08-26 22:36:57,130 - INFO - Proyecto de Análisis Comparativo ML en Telecomunicaciones iniciado
+2025-08-26 22:36:57,130 - INFO - Dataset seleccionado: UNSW-NB15 (Australian Centre for Cyber Security)
+2025-08-26 22:36:57,130 - INFO - >>> INICIANDO EJECUCIÓN COMPLETA DEL PROYECTO
+2025-08-26 22:36:57,130 - INFO - ======================================================================
+2025-08-26 22:36:57,131 - INFO - === PASO 1: DESCARGA DEL DATASET UNSW-NB15 ===
+2025-08-26 22:36:57,131 - INFO - === PASO 2: PREPROCESAMIENTO DE DATOS ===
+2025-08-26 22:37:03,082 - INFO - Preprocesamiento completado en 5.95 segundos
+2025-08-26 22:37:03,125 - INFO - Características seleccionadas: 30
+2025-08-26 22:37:03,128 - INFO - Conjunto de entrenamiento: (65865, 30)
+2025-08-26 22:37:03,135 - INFO - Conjunto de prueba: (16467, 30)
+2025-08-26 22:37:03,136 - INFO - === PASO 3: MODELOS DE APRENDIZAJE SUPERFICIAL ===
